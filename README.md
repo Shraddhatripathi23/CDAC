@@ -6,7 +6,7 @@ Contains all my eDAC assignments, notes .
 
 > **Authors**
 
-**Shraddha Tripathi ðŸ‘¨â€ðŸ’»** 
+**Shraddha Tripathi ** 
 
 <p align='left'>
   
